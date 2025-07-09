@@ -1,0 +1,17 @@
+# SBT / Scala
+.target/
+project/target/
+project/project/target/
+.idea/
+*.iml
+*.class
+.DS_Store
+# Logs
+logs/
+*.log
+# IntelliJ
+*.iws
+*.ipr
+*.ids
+# VS Code
+.vscode/

@@ -1,0 +1,17 @@
+[debug] Created transactional ClassFileManager with tempDir = /workspace/target/scala-2.13/test-classes.bak
+[debug] About to delete class files:
+[debug] 	PipeSqlParserSpec$$anonfun$1.class
+[debug] 	PipeSqlParserSpec.class
+[debug] 	PipeSqlParserSpec$$anonfun$2.class
+[debug] 	PipeSqlParserSpec$$anonfun$3.class
+[debug] We backup class files:
+[debug] 	PipeSqlParserSpec$$anonfun$1.class
+[debug] 	PipeSqlParserSpec.class
+[debug] 	PipeSqlParserSpec$$anonfun$2.class
+[debug] 	PipeSqlParserSpec$$anonfun$3.class
+[debug] Registering generated classes:
+[debug] 	PipeSqlParserSpec.class
+[debug] 	PipeSqlParserSpec$$anonfun$3.class
+[debug] 	PipeSqlParserSpec$$anonfun$2.class
+[debug] 	PipeSqlParserSpec$$anonfun$1.class
+[debug] Removing the temporary directory used for backing up class files: /workspace/target/scala-2.13/test-classes.bak

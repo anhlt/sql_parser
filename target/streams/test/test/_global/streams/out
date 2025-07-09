@@ -1,0 +1,13 @@
+[debug] Running TaskDef(pipesql.PipeSqlParserSpec, org.scalatest.tools.Framework$$anon$1@71f888c3, false, [SuiteSelector])
+[info] PipeSqlParserSpec:
+[info] - parser should build expected AST for sample query
+[info] - parser should accept simple FROM clause
+[info] - parser should accept ORDER BY with space before direction keyword
+[info] - parser should accept ORDER BY with newline before direction keyword
+[info] Run completed in 372 milliseconds.
+[info] Total number of tests run: 4
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	pipesql.PipeSqlParserSpec
